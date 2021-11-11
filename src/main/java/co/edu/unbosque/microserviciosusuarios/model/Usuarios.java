@@ -20,5 +20,5 @@ public class Usuarios {
 	private String nombre_usuario;
 	private String sede_usuario;
 	private String password_usuario;
-
+	private String sede;
 }
